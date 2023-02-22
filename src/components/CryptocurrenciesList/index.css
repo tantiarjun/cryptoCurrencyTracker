@@ -1,0 +1,21 @@
+.coin-type-text {
+  color: #ffffff;
+}
+
+.all-currency-container {
+  list-style-type: none;
+}
+
+.each-currency-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.usd-uro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.usd {
+  margin-right: 30px;
+}

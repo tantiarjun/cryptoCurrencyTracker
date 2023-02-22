@@ -1,0 +1,13 @@
+.coint-type-text {
+  color: #ffffff;
+}
+
+.currencyLogo {
+  height: 30px;
+  margin-right: 20px;
+}
+
+.coin-type-container {
+  display: flex;
+  align-items: center;
+}
